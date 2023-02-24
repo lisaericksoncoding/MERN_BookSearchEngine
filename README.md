@@ -25,7 +25,7 @@ Once the API server is running, open Insomnia. Paste the local host URL in the t
 
 ## Links
 
-- [Social Network API Repo](https://github.com/lisaericksoncoding/Social_Network_API "Social Network API Repo")
+- [MERN Book Search Engine Repo](https://github.com/lisaericksoncoding/MERN_BookSearchEngine "MERN Book Search Engine Repo")
 
 ## Built With
 - Visual Studio Code
@@ -41,7 +41,7 @@ Once the API server is running, open Insomnia. Paste the local host URL in the t
 - [Express.js](https://www.npmjs.com/package/express "Express.js")
 - [Mongoose](https://www.npmjs.com/package/mongoose) 
 - [W3Schools Site](https://www.w3schools.com "W3Schools")
-- [React.js Site](https://reactjs.org/) "React.js")
+- [React.js Site](https://reactjs.org/ "React.js")
 
 ## License
 This project is covered under the MIT license. To learn more, click the license button at the top.
